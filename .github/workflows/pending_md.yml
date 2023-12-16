@@ -1,4 +1,4 @@
-name: peding md file
+name: pending md file
 
 on:
   workflow_dispatch:
