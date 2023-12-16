@@ -1,8 +1,8 @@
 # Urbance
 
 ::: info
-✍🏻译制: 
-:::滚叔说唱
+✍🏻译制: 滚叔说唱
+:::
 
 ![maxresdefault (6).jpg](maxresdefault_(6).jpg)
 
