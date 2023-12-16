@@ -4,10 +4,10 @@
 
 ![c27c2f708104e99d80b813d91059b747_original.jpg](c27c2f708104e99d80b813d91059b747_original.jpg)
 
-<aside>
+::: info
 ⚠️ 如资源失效，请前往 [@漫迪MDsub](https://weibo.com/weheartcartoons) 置顶微博获取度盘压缩包
 
-</aside>
+:::
 
 | 标题 | 百度 | 阿里 | MDpan |
 | --- | --- | --- | --- |

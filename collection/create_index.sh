@@ -13,8 +13,8 @@ echo "    tagline: 备用发布页 内容可能有滞后&错漏" >> $md_file
 echo "features:" >> $md_file
 
 # 遍历当前目录中的文件，生成Markdown格式
-for file_name in *; do
-    if [ -f "$file_name" ] && [ "${file_name##*.}" != "sh" ] && [ "$file_name" != "index.md" ]; then
+for file_name in *.md; do
+    if [ -f "$file_name" ] && [ "$file_name" != "index.md" ]; then
         # 抛弃文件后缀名
         file_title="${file_name%.*}"
         # 写入Markdown的features部分
