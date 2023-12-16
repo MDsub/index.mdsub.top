@@ -1,4 +1,4 @@
-name: Run Script
+name: peding md file
 
 on:
   workflow_dispatch:
