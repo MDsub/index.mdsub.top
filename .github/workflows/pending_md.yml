@@ -1,0 +1,22 @@
+name: Run Script
+
+on:
+  workflow_dispatch:
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest  # You can change this to another supported environment
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '14'
+
+    - name: Run Script
+      run: |
+        cd pending
+        ./peding_md_linux.sh
