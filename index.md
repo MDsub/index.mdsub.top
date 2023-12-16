@@ -8,21 +8,21 @@ hero:
 features:
   - icon: 
       src: /c.avif
-    title: 小站
+    title: 漫迪小站
     link: https://mdsub.top
   - icon: 🤖
     title: 还是小站
     link: https://cfwk.mdsub.top
   - icon: 🥚
-    title: 备用站
+    title: 备用小站
     link: collection/index.html
   - icon: 
       src: /mdpan.png
-    title: MDpan
+    title: 在线MDpan
     link: https://pan.mdsub.top
   - icon: 
       src: /weibo-svgrepo-com.svg
-    title: 微博
+    title: 漫迪微博
     link: https://weibo.com/u/2355632031
   - icon: 🧰
     title: 字幕教程和工具
