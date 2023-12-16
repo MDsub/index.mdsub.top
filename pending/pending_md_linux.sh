@@ -10,8 +10,6 @@ for file in *.md; do
   [ -f "$file" ] && mv "$file" "${file%% *}.${file##*.}" && echo "已重命名文件: $file"
 done
 
-echo "完成"
-
 echo "替换和增加内容容器"
 
 # 替换"<aside>"为"::: info"，"</aside>"为":::"
@@ -27,20 +25,14 @@ find "$directory" -type f -name "*.md" -exec perl -i -pe '
     }
 ' {} +
 
-echo "完成"
-
 echo "修改链接样式"
 
 # 替换链接样式
 sed -E -i 's/（提取码：(.{4})）/?pwd=\1/g; s@\| (https://[^ ]+) @|[链接](\1) @g' *.md
 
-echo "完成"
-
 echo "将.md文件移动到collection"
 
 mv *.md ../collection
-
-echo "改变工作目录"
 
 cd ../collection
 
