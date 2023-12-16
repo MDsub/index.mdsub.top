@@ -19,4 +19,4 @@ jobs:
     - name: Run Script
       run: |
         cd pending
-        ./peding_md_linux.sh
+        ./pending_md_linux.sh
