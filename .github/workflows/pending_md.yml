@@ -20,3 +20,11 @@ jobs:
       run: |
         cd pending
         ./pending_md_linux.sh
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Apply changes from GitHub Action"
+        git push
