@@ -13,8 +13,8 @@
 
 | 标题 | 百度 | 阿里 | MDpan |
 | --- | --- | --- | --- |
-| 第一季 | https://pan.baidu.com/s/1ltfDyb1o8CuNPFjp7nAvjg?pwd=npko | https://www.aliyundrive.com/s/F2BvMXS2q2o（缺E21） | https://mdpan.tk/Lastman |
-| 第二季 | https://pan.baidu.com/s/1kZ4eg5FLMERLgR90lT-G_w?pwd=adrd | https://www.aliyundrive.com/s/jL1UadwyuiB | https://mdpan.tk/zh-CN/Lastman/Season%202/ |
+| 第一季 |[链接](https://pan.baidu.com/s/1ltfDyb1o8CuNPFjp7nAvjg?pwd=npko) |[链接](https://www.aliyundrive.com/s/F2BvMXS2q2o（缺E21）) |[链接](https://mdpan.tk/Lastman) |
+| 第二季 |[链接](https://pan.baidu.com/s/1kZ4eg5FLMERLgR90lT-G_w?pwd=adrd) |[链接](https://www.aliyundrive.com/s/jL1UadwyuiB) |[链接](https://mdpan.tk/zh-CN/Lastman/Season%202/) |
 
 [文章](%E6%96%87%E7%AB%A0%207697939a79464db4a01f4b1a3ee3b837.csv)
 
