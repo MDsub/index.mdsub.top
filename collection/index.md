@@ -120,9 +120,6 @@ features:
       title: 蜂妹与狗狗猫
       link: /collection/蜂妹与狗狗猫.html
     - icon: 🎬
-      title: 资源发布模板
-      link: /collection/资源发布模板.html
-    - icon: 🎬
       title: 饮料杯历险记
       link: /collection/饮料杯历险记.html
     - icon: 🎬
